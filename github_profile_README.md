@@ -16,7 +16,7 @@ My work sits at the intersection of **earth observation**, **environmental scien
 - 🌍 Currently working on **GeoAI for Disaster Resilience** (ADRIMP Fellowship, 2026)
 - 🛰️ Published researcher — *Geological Society of Sri Lanka, 2025*
 - ☁️ Built & deployed a **real-time agriculture emissions monitoring platform** on AWS (IPCC Tier-2/3 compliant)
-- 🔬 Prospective PhD candidate in **Remote Sensing & Environmental Monitoring** (targeting Canada, Fall 2026)
+- 🔬 Prospective PhD candidate in **Remote Sensing & Environmental Monitoring**
 
 ---
 
